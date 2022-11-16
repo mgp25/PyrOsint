@@ -4,7 +4,12 @@
     <img src="https://raw.githubusercontent.com/mgp25/PyrOsint/master/assets/pyrosint.png" height="200"/>
 </p>
 
-<center><i>Python script to obtain mediafire file owner</i></center>
+<p align="center"><i>Python script to obtain mediafire file owner</i></p>
+<br/><br/> 
+
+**Do you like this project? Become a sponsor!**
+
+[![sponsor](https://img.shields.io/badge/-Become%20a%20sponsor%20❤-ff6964)](https://github.com/sponsors/mgp25)
 
 ## About
 
